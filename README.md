@@ -32,12 +32,18 @@ public async Task<obj> Main(){
 
 - Create your own tables [here](https://www.tablesgenerator.com/markdown_tables)
 
-- use Mermaid syntax
+- Strikethrough
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+~~The world is flat.~~ We now know that the world is round.
+
+### Task list
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+- Emoji
+
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
