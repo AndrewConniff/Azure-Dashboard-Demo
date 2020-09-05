@@ -16,12 +16,9 @@ public async Task<obj> Main(){
 }
 ```
 
-> [!NOTE]
 > Note: This is information a reader should notice even when skimming.
 
 - Project diagram
-
-    ![project image](./images/img1.png)
 
 - Use tables
 
