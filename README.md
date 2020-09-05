@@ -22,15 +22,6 @@ public async Task<obj> Main(){
 
    ![project image](./images/img1.png)
 
-- Use tables
-
-    | Heading 1 ------------> | <-------------Heading 2-------------> | <------------------Heading 3 |  
-    |:--------------------------|:---------------------------:|----------------------------:|  
-    | Cell A1 *aligned left* | Cell A2 *aligned center*| Cell A3 *aligned right*|  
-    | Cell B1 *aligned left* | Cell B2 *aligned center*| Cell B3 *aligned right*<br/>second line of text |
-
-- Create your own tables [here](https://www.tablesgenerator.com/markdown_tables)
-
 - Strikethrough
 
     ~~The world is flat.~~ We now know that the world is round.
