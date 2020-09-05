@@ -20,6 +20,8 @@ public async Task<obj> Main(){
 
 - Project diagram
 
+   ![project image](./images/img1.png)
+
 - Use tables
 
     | Heading 1 ------------> | <-------------Heading 2-------------> | <------------------Heading 3 |  
@@ -40,3 +42,7 @@ public async Task<obj> Main(){
 - [ ] Contact the media
 
 - Emoji
+
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
