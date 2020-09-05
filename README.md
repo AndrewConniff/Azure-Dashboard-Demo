@@ -16,7 +16,7 @@ public async Task<obj> Main(){
 }
 ```
 
-[!Note!]
+[!ALERT]
 >Note
 
 - Project diagram
@@ -29,3 +29,15 @@ public async Task<obj> Main(){
     |:--------------------------|:---------------------------:|----------------------------:|  
     | Cell A1 *aligned left* | Cell A2 *aligned center*| Cell A3 *aligned right*|  
     | Cell B1 *aligned left* | Cell B2 *aligned center*| Cell B3 *aligned right*<br/>second line of text |
+
+- Create your own tables [here](https://www.tablesgenerator.com/markdown_tables)
+
+- use Mermaid syntax
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
