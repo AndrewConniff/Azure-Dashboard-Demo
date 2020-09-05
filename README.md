@@ -16,8 +16,8 @@ public async Task<obj> Main(){
 }
 ```
 
-[!ALERT]
->Note
+> [!NOTE]
+> Note: This is information a reader should notice even when skimming.
 
 - Project diagram
 
@@ -34,7 +34,7 @@ public async Task<obj> Main(){
 
 - Strikethrough
 
-~~The world is flat.~~ We now know that the world is round.
+    ~~The world is flat.~~ We now know that the world is round.
 
 ### Task list
 
