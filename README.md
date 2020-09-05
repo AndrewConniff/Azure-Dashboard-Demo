@@ -40,7 +40,3 @@ public async Task<obj> Main(){
 - [ ] Contact the media
 
 - Emoji
-
-Gone camping! :tent: Be back soon.
-
-That is so funny! :joy:
