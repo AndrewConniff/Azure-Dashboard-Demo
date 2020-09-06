@@ -58,17 +58,17 @@ You can use links, like this link to the full documentation [here](https://docs.
             <td></td>
         </tr>
         <tr>
-            <td colspan="5">* <strong>Usage</strong> is percentage of surveyed websites 
-            that use the associated CMS. <strong>Market Share</strong> is the percentage 
-            of surveyed websites powered by a CMS that use the associated CMS. For example, 
-            25.8% of all surveyed websites use WordPress, and WordPress commands 59.1% 
+            <td colspan="5">* <strong>Usage</strong> is percentage of surveyed websites
+            that use the associated CMS. <strong>Market Share</strong> is the percentage
+            of surveyed websites powered by a CMS that use the associated CMS. For example,
+            25.8% of all surveyed websites use WordPress, and WordPress commands 59.1%
             market share of the total CMS market.</td>
         </tr>
         <tr>
-            <td colspan="5">The data in this table is provided courtesy of 
-            <a href="http://w3techs.com" target="_blank">W3Techs</a> and was captured in 
-            February 2016. To learn more about this topic visit the 
-            <a href="http://w3techs.com/technologies/overview/content_management/all" 
+            <td colspan="5">The data in this table is provided courtesy of
+            <a href="http://w3techs.com" target="_blank">W3Techs</a> and was captured in
+            February 2016. To learn more about this topic visit the
+            <a href="http://w3techs.com/technologies/overview/content_management/all"s
             target="_blank">overview of content management systems</a> from W3Techs.</td>
         </tr>
     </tfoot>
